@@ -1,0 +1,8 @@
+        name
+---------------------
+ Harold Abelson
+ Michael Ian Shamos
+ Robert Irving Soare
+ Sheila A. Greibach
+ Walter J. Savitch
+(5 rows)

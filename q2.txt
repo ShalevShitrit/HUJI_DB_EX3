@@ -1,0 +1,49 @@
+       institution       |         name
+-------------------------+----------------------
+ Stellenbosch University | Bernd Fischer 0002
+ Stellenbosch University | Bernd Fischer 0002
+ Stellenbosch University | Bernd Fischer 0002
+ Stellenbosch University | Bernd Fischer 0002
+ Stellenbosch University | Bernd Fischer 0002
+ Stellenbosch University | Bernd Fischer 0002
+ Stellenbosch University | Jaco Geldenhuys
+ Stellenbosch University | Jaco Geldenhuys
+ Stellenbosch University | Jaco Geldenhuys
+ Stellenbosch University | Steve Kroon
+ Stellenbosch University | Steve Kroon
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ Stellenbosch University | Willem Visser
+ University of Cape Town | Geoff S. Nitschke
+ University of Cape Town | Geoff S. Nitschke
+ University of Cape Town | Melissa Densmore
+ University of Cape Town | Melissa Densmore
+ University of Cape Town | Melissa Densmore
+ University of Cape Town | Melissa Densmore
+ University of Cape Town | Thomas Andreas Meyer
+ University of Cape Town | Thomas Andreas Meyer
+ University of Cape Town | Thomas Andreas Meyer
+ University of Cape Town | Thomas Andreas Meyer
+ University of Cape Town | Thomas Andreas Meyer
+ University of Cape Town | Thomas Andreas Meyer
+ University of Cape Town | Thomas Andreas Meyer
+ University of Cape Town | Thomas Andreas Meyer
+(46 rows)

@@ -1,0 +1,52 @@
+           name
+--------------------------
+ Abhijit Mahalanobis
+ Aditya Nigam
+ Adolfo Muñoz
+ Alain Trémeau
+ Andy Song
+ Biplab Banerjee
+ Bridget T. McInnes
+ Chris Fox
+ Christopher Brown
+ Chuang Zhu
+ Claudio Esperança
+ Daljit Singh Dhillon
+ Ebroul Izquierdo
+ Francesco Palmieri 0001
+ Furkan Kiraç
+ Gordon D. Love
+ H. Siegfried Stiehl
+ Haihong E
+ Heung-Kyu Lee
+ Jeremy S. Smith
+ Jesse M. Heines
+ Jianghong Ma
+ Jon Barker
+ Lale Akarun
+ Leo Dorst
+ Marco Fratarcangeli
+ Meina Song
+ Michael Wiegand
+ Moshe Chai Barukh
+ Patrice Delmas
+ Paulo A. Pagliosa
+ Radhika Mamidi
+ Rasha Obeidat
+ Remco C. Veltkamp
+ Seth Holladay
+ Solange Oliveira Rezende
+ Somaya Al-Máadeed
+ Susan McRoy
+ Tack-Don Han
+ Wolfgang Banzhaf
+ Xiaopeng Fan
+ Xiaowei He
+ Yi-Jun Yang
+ Yoshihiro Kanamori
+ Yuankai Huo
+ Yuki Endo
+ Zhipeng Cai
+ Zhiyi Ma
+(48 rows)
+

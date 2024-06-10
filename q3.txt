@@ -1,0 +1,22 @@
+          institution           |       name
+--------------------------------+-------------------
+ Bar-Ilan University            | Shmuel Tomi Klein
+ Hebrew University of Jerusalem | Dani Lischinski
+ Hebrew University of Jerusalem | Michael Schapira
+ Hebrew University of Jerusalem | Nir Friedman
+ Hebrew University of Jerusalem | Raanan Fattal
+ Hebrew University of Jerusalem | Yehoshua Sagiv
+ Technion                       | Benny Kimelfeld
+ Technion                       | Craig Gotsman
+ Technion                       | Mirela Ben-Chen
+ Technion                       | Oren Kurland
+ Tel Aviv University            | Amit Bermano
+ Tel Aviv University            | Daniel Cohen-Or
+ Tel Aviv University            | Daniel Deutch
+ Tel Aviv University            | Raja Giryes
+ Tel Aviv University            | Shai Avidan
+ Tel Aviv University            | Tova Milo
+ Tel Aviv University            | Yossi Matias
+ Weizmann Institute of Science  | Yaron Lipman
+(18 rows)
+

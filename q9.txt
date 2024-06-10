@@ -1,0 +1,58 @@
+ country |             institution             | countrycount
+---------+-------------------------------------+--------------
+ ae      | MBZUAI                              |        477.0
+ ar      | University of Buenos Aires          |         78.0
+ at      | TU Wien                             |        525.0
+ au      | University of Sydney                |        787.0
+ au      | UNSW                                |        787.0
+ bd      | BUET                                |         23.0
+ be      | KU Leuven                           |        373.0
+ br      | UFMG                                |        286.0
+ ca      | University of Toronto               |       1977.0
+ ch      | ETH Zurich                          |       2346.0
+ cl      | Universidad de Chile                |         65.0
+ cn      | Tsinghua University                 |       3096.0
+ co      | Universidad de los Andes            |         16.0
+ cy      | Cyprus University of Technology     |         35.0
+ cz      | Czech Technical University          |        477.0
+ de      | Max Planck Society                  |       1709.0
+ dk      | University of Copenhagen            |        675.0
+ ee      | University of Tartu                 |         49.0
+ eg      | American University in Cairo        |            0
+ es      | Polytechnic University of Catalonia |        297.0
+ fi      | Aalto University                    |        403.0
+ fr      | Ecole Normale Superieure            |        609.0
+ gr      | University of Crete                 |        187.0
+ hk      | Chinese University of Hong Kong     |       1754.0
+ hu      | University of Szeged                |         25.0
+ ie      | University College Dublin           |        101.0
+ il      | Technion                            |       1825.0
+ in      | IIT Bombay                          |        405.0
+ ir      | Sharif University of Technology     |         33.0
+ it      | Sapienza University of Rome         |        687.0
+ jo      | JUST                                |          1.0
+ jp      | University of Tokyo                 |       1720.0
+ kr      | KAIST                               |       1620.0
+ lb      | American University of Beirut       |         51.0
+ lu      | University of Luxembourg            |         99.0
+ mt      | University of Malta                 |         15.0
+ my      | University of Malaya                |          5.0
+ nl      | University of Amsterdam             |        482.0
+ no      | University of Bergen                |        130.0
+ nz      | University of Auckland              |        100.0
+ ph      | De La Salle University              |          6.0
+ pk      | LUMS                                |         45.0
+ pl      | University of Warsaw                |        367.0
+ pt      | Universidade de Lisboa              |        554.0
+ qa      | Qatar Computing Research Institute  |        280.0
+ ro      | Babeș-Bolyai University             |            0
+ru      | HSE University                      |         53.0
+ sa      | KAUST                               |        464.0
+ se      | KTH Royal Institute of Technology   |        264.0
+ sg      | National University of Singapore    |       1935.0
+ th      | KMUTNB                              |         26.0
+ tr      | Middle East Technical University    |         64.0
+ tw      | National Taiwan University          |        481.0
+ uk      | University of Edinburgh             |       1577.0
+ za      | Stellenbosch University             |         32.0
+(55 rows)

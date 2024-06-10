@@ -1,0 +1,9 @@
+          name
+------------------------
+ Christopher D. Manning
+ Ido Dagan
+ Mirella Lapata
+ Noah A. Smith
+ Omri Abend
+ Pushpak Bhattacharyya
+(6 rows)

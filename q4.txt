@@ -1,0 +1,5 @@
+          name          | year
+------------------------+------
+ Aviv Zohar             | 2011
+ Jeffrey S. Rosenschein | 2011
+(2 rows)

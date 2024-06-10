@@ -1,0 +1,39 @@
+ year |          name
+------+------------------------
+ 2000 | Amnon Shashua
+ 2001 | Amnon Shashua
+ 2002 | Amnon Shashua
+ 2002 | Naftali Tishby
+ 2002 | Nir Friedman
+ 2002 | Yair Weiss
+ 2003 | Yair Weiss
+ 2004 | Yair Weiss
+ 2005 | Daphna Weinshall
+ 2006 | Amnon Shashua
+ 2006 | Michael Werman
+ 2007 | Jeffrey S. Rosenschein
+ 2008 | Ari Rappoport
+ 2009 | Ari Rappoport
+ 2009 | Yair Weiss
+ 2010 | Ari Rappoport
+ 2011 | Shai Shalev-Shwartz
+ 2012 | Yair Weiss
+ 2013 | Ari Rappoport
+ 2013 | Dani Lischinski
+ 2013 | Jeffrey S. Rosenschein
+ 2013 | Michael Werman
+ 2013 | Shai Shalev-Shwartz
+ 2014 | Noam Nisan
+ 2015 | Jeffrey S. Rosenschein
+ 2016 | Gabriel Stanovsky
+ 2016 | Shmuel Peleg
+ 2017 | Ari Rappoport
+ 2017 | Daphna Weinshall
+ 2017 | Jeffrey S. Rosenschein
+ 2017 | Omri Abend
+ 2018 | Omri Abend
+ 2019 | Roy Schwartz 0001
+ 2020 | Amit Daniely
+ 2020 | Gabriel Stanovsky
+ 2020 | Roy Schwartz 0001
+(36 rows)
