@@ -1,10 +1,12 @@
-select name, year
-from authors natural join conferences as c1
-where institution = 'Hebrew University of Jerusalem' and
-    c1.subarea = 'ai'
-intersect
-select name, year
-from authors natural join conferences as c2
-where institution = 'Hebrew University of Jerusalem' and
-    c2.subarea = 'economics'
-order by name,year
+SELECT name, year
+FROM authors NATURAL JOIN conferences AS c1
+WHERE institution = 'Hebrew University of Jerusalem'
+AND c1.subarea = 'ai'
+
+INTERSECT
+
+SELECT name, year
+FROM authors NATURAL JOIN conferences AS c2
+WHERE institution = 'Hebrew University of Jerusalem'
+AND c2.subarea = 'economics'
+ORDER BY name, year;

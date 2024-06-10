@@ -1,4 +1,4 @@
-select institution
-from institutions
-where country = 'il'
-order by instituison
+SELECT institution
+FROM institutions
+WHERE country = 'il'
+ORDER BY institution;

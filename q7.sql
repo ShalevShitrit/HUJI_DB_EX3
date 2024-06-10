@@ -1,4 +1,4 @@
-select country ,count(institution) as institutionCount
-from institutions
-group by country
-order by country
+SELECT country, COUNT(institution) AS institutionCount
+FROM institutions
+GROUP BY country
+ORDER BY country;

@@ -1,12 +1,14 @@
-with publitionIns as (
+WITH publitionIns AS (
+    SELECT institution, country, COALESCE(SUM(totalcount), 0) AS insCount
+    FROM authors NATURAL RIGHT OUTER JOIN institutions
+    GROUP BY institution, country
+)
 
-select institution, country ,COALESCE(SUM(totalcount), 0) as insCount
-from authors natural right outer join institutions
-group by institution,country)
-
-
-select country ,institution  ,insCount as countryCount
-from publitionIns as p1
-where insCount = ( select max(insCount) from publitionIns as p2 where p1.country = p2.country)
-order by country,institution
-
+SELECT country, institution, insCount AS countryCount
+FROM publitionIns AS p1
+WHERE insCount = (
+    SELECT MAX(insCount)
+    FROM publitionIns AS p2
+    WHERE p1.country = p2.country
+)
+ORDER BY country, institution;
