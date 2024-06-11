@@ -1,3 +1,21 @@
+ country | institutioncount
+---------+------------------
+ ae      |                2
+ ar      |                2
+ at      |                8
+ au      |               13
+ bd      |                1
+ be      |                2
+ br      |               16
+ ca      |               32
+ ch      |                5
+ cl      |                1
+ cn      |               30
+ co      |                1
+ cy      |                2
+ cz      |                4
+ de      |               68
+ dk      |                5
  ee      |                1
  eg      |                1
  es      |                7
