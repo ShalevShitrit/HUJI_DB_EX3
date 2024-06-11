@@ -2,7 +2,6 @@ INSERT INTO Course VALUES ('1', 'Computer Science');
 INSERT INTO Course VALUES ('2', 'Computer Science');
 
 --Optional example using Prerequisites:
-
 --INSERT INTO Course VALUES ('1', 'Computer Science');
 --INSERT INTO Course VALUES ('2', 'Computer Science');
 --INSERT INTO Course VALUES ('3', 'Computer Science');
